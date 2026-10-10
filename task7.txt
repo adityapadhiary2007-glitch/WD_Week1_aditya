@@ -1,0 +1,7 @@
+Week 1 – HTML Fundamentals Reflection
+
+During this week, I learned the basics of HTML, including headings, paragraphs, links, images, lists, tables, forms, and semantic HTML tags.
+
+I learned how to create simple webpages and structure their content using HTML5.
+
+This assignment helped me improve my understanding of HTML and gave me confidence to learn CSS and JavaScript next.
